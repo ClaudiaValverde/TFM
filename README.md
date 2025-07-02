@@ -1,4 +1,4 @@
-# TFM
+# Pocket-Aware Molecular Generation Through Learned Protein Representations
 Main Code and Scripts of my Final Masters Thesis can be found in this repository
 
 ## 📁 Repository Structure
@@ -11,6 +11,5 @@ Main Code and Scripts of my Final Masters Thesis can be found in this repository
 
 
 🧑‍🎓 Author
-Clàudia Valverde
+Clàudia Valverde \
 Final Master's Thesis (TFM) – Masters in Fundamental Principles of Data Science
-[Contact/email if desired]
