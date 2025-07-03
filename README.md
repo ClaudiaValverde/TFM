@@ -8,7 +8,7 @@ Main Code and Scripts of my Final Masters Thesis can be found in this repository
 - [03-Generation/](03-Generation/) : Code for generating predictions
 - [04-Analysi/](04-Analysi/) : Evaluation, metric computation, and result interpretation
 
-
+Except for the Jupyter notebooks, which can be executed in Google Colab, all other scripts were run on either the MN5 or Nostrum Biodiscovery cluster machines.
 
 🧑‍🎓 Author
 Clàudia Valverde \
