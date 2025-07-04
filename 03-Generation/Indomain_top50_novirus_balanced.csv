@@ -1,0 +1,51 @@
+Unnamed: 0,pdb_id,ligand_id,Label,split,pocket_key,cleaned_smiles,uniprot_id,Pfam_Families,pfam_id,pfam_name,clan_name
+60092,6i0w,6i0w__1__1.A__1.H__1.H,1,train,6i0w__1__1.A__1.H,OC[C@H]1O[C@H](O)[C@H](O)[C@@H](O)[C@@H]1O,P00918,PF00194,PF00194,,Eukaryotic-type carbonic anhydrase
+49278,4fi7,4fi7__1__1.A_2.A__1.C__1.C,1,train,4fi7__1__1.A_2.A__1.C,O=S(=O)(F)C1=CC=CC(C2=NN=C(C3=CC(Cl)=C(O)C(Cl)=C3)O2)=C1,P02766,PF00576,PF00576,Transthyretin,HIUase/Transthyretin family
+44280,7p7p,7p7p__1__1.A__1.D_1.P_1.R__1.D,1,train,7p7p__1__1.A__1.D_1.P_1.R,O=S(=O)([O-])CC[NH+]1CCOCC1,Q6P179,PF11838,PF11838,E-set,ERAP1-like C-terminal domain
+28974,1rb8,1rb8__1__1.A_1.C_2.A__1.D_1.E_1.H__1.D,1,train,1rb8__1__1.A_1.C_2.A__1.D_1.E_1.H,NC1=NC(=O)N([C@H]2C[C@H](O)[C@@H](COP(=O)(O)O)O2)C=C1,P08767,PF02305,PF02305,ssDNA_NP_VP,Capsid protein (F protein)
+61592,8gz2,8gz2__1__1.A__1.I__1.I,1,train,8gz2__1__1.A__1.I,CC(=O)N[C@@H]1[C@@H](O)[C@H](O)[C@@H](CO)O[C@H]1O,O60939,PF07686,PF07686,E-set,Immunoglobulin V-set domain
+3318,6l11,6l11__1__1.A__1.B__1.B,1,train,6l11__1__1.A__1.B,CCN(CC)CCCCCN1C2=CC=CC=C2OC2=CC=C(Cl)C=C21,P11309,PF00069,PF00069,PKinase,Protein kinase domain
+9440,2g0h,2g0h__1__1.A__1.C__1.C,1,train,2g0h__1__1.A__1.C,O=S(=O)(NC1=CC(C2=CC=CS2)=NN1C1=CC=C(F)C=C1)C1=CC(C(F)(F)F)=CC(C(F)(F)F)=C1,P37231,PF00104,PF00104,,Ligand-binding domain of nuclear hormone receptor
+70239,4cnm,4cnm__1__1.A__1.C__1.C,1,train,4cnm__1__1.A__1.C,CC(=O)N[C@@H]1[C@@H](O)[C@H](O)[C@@H](CO)O[C@H]1O,Q13641,PF13855,PF13855,LRR,Leucine rich repeat
+51183,7niw,7niw__1__1.A__1.H__1.H,1,train,7niw__1__1.A__1.H,CC(C)CCC[C@@H](C)[C@H]1CC[C@H]2[C@@H]3CC=C4C[C@@H](O)CC[C@]4(C)[C@H]3CC[C@]12C,P21439,PF00664,PF00664,ABC_membrane,ABC transporter transmembrane region
+14622,7k21,7k21__1__1.A__1.E_1.F_1.G__1.E,1,train,7k21__1__1.A__1.E_1.F_1.G,NC1=NC=NC2=C1N=CN2[C@@H]1O[C@H](CO[P@](=O)(O)OP(=O)(O)O)[C@@H](O)[C@H]1O,P68139,PF00022,PF00022,Actin_ATPase,Actin
+79910,1p0i,1p0i__1__1.A__1.E__1.E,1,train,1p0i__1__1.A__1.E,CC(=O)N[C@@H]1[C@@H](O)[C@H](O)[C@@H](CO)O[C@H]1O,P06276,PF08674,PF08674,,Acetylcholinesterase tetramerisation domain
+7296,5c27,5c27__1__1.A__1.C__1.C,1,train,5c27__1__1.A__1.C,CNC(=O)C1=CC=C(NC(=O)C2=CC=CC(C3=CN4C=CN=C4C(NC4=CC=C(OC)C(OC)=C4)=N3)=C2)C=C1,P43405,PF07714,PF07714,PKinase,Protein tyrosine and serine/threonine kinase
+6398,4jx1,4jx1__4__1.F__1.W_1.X_1.Y__4.W,1,train,4jx1__4__1.F__1.W_1.X_1.Y,CC1(C)[C@@H]2CC[C@@]1(C)C(=O)C2,P00183,PF00067,PF00067,,Cytochrome P450
+15999,2o86,2o86__1__1.A__1.E__1.E,1,train,2o86__1__1.A__1.E,CC(=O)N[C@H]1[C@H](O[C@H]2[C@H](O)[C@@H](NC(C)=O)CO[C@@H]2CO)O[C@H](CO)[C@@H](O)[C@@H]1O,A5JUY8,PF03098,PF03098,Peroxidase,Animal haem peroxidase
+126011,4g0r,4g0r__1__1.A__1.F__1.F,1,train,4g0r__1__1.A__1.F,NC1=NC(=O)N([C@H]2C[C@H](O)[C@@H](COP(=O)(O)O)O2)C=C1,P03136,PF00740,PF00740,ssDNA_NP_VP,Parvovirus coat protein VP2
+27107,5mky,5mky__1__1.A__1.B__1.B,1,train,5mky__1__1.A__1.B,CN1CCC2=C(C=CC=C2NC2=C(Cl)C(=O)N(C)N=C2)C1,Q9H8M2,PF00439,PF00439,,Bromodomain
+56173,4xx4,4xx4__1__1.A__1.D__1.D,1,train,4xx4__1__1.A__1.D,[H]N=C1N[C@](C)(C(C)C)CC(=O)N1CC1=CC=CC(N2C[C@@H](C3=CC=CC=C3)CC2=O)=C1,P00797,PF07966,PF07966,,A1 Propeptide 
+22969,6j10,6j10__1__1.B__1.G__1.G,1,train,6j10__1__1.B__1.G,CC1=CC(=O)N(O)C(C2CCCCC2)=C1,P03147,PF00906,PF00906,,Hepatitis core antigen
+72923,7gff,7gff__1__2.A__2.E__1.E,1,train,7gff__1__2.A__2.E,CC1=CC=NC=C1NC(=O)[C@@H](C)OC(F)F,P0DTD1,PF13087,PF13087,P-loop_NTPase,AAA domain
+71432,4bui,4bui__1__1.A__1.G__1.G,1,train,4bui__1__1.A__1.G,COC(=O)C1=CC=C(C2=NC3=CC=CC=C3C(=O)N2)C=C1,Q9H2K2,PF00023,PF00023,Ank,Ankyrin repeat
+15872,8fwr,8fwr__1__1.A__1.M__1.M,1,train,8fwr__1__1.A__1.M,CC(=O)N[C@@H]1[C@@H](O)[C@H](O)[C@@H](CO)O[C@H]1O,P42260,PF01094,PF01094,Periplas_BP,Receptor family ligand binding region
+78861,5cav,5cav__1__1.A__1.B__1.B,1,train,5cav__1__1.A__1.B,CO[C@H]1CCN(C2=NC=CC(NC3=CC4=C(C=N3)N=C([C@@H](C)O)N4[C@@H](C)C(F)(F)F)=N2)C[C@H]1F,P00533,PF00757,PF00757,GF_recep_C-rich,Furin-like cysteine rich region
+142827,3t19,3t19__1__1.A__1.C__1.C,1,val,3t19__1__1.A__1.C,NCC1=CC(Cl)=CC(OC2=C(Cl)C=CC3=C2N=NN3CC2=C3C=CC=NC3=NN2)=C1Cl,P04585,PF00540,PF00540,Matrix,gag gene protein p17 (matrix protein)
+108430,6lev,6lev__1__1.B__1.G_1.H__1.G,1,train,6lev__1__1.B__1.G_1.H,CC1(C)N=C(N)N=C(N)N1OCC(=O)NC1=CC=C(Cl)C=C1,D9N170,PF00186,PF00186,DHFred,Dihydrofolate reductase
+2118,5ek0,5ek0__1__1.A__1.K_1.L__1.K,1,train,5ek0__1__1.A__1.K_1.L,CCCCCCCCCCCCCC(=O)OC[C@H](CO[P@](=O)(O)OCC[N+](C)(C)C)OC(=O)CCCCCCCCCCCCC,A8EVM5,PF00520,PF00520,Ion_channel,Ion transport protein
+871,8p5z,8p5z__1__1.A_1.D__1.E_1.F_1.O_1.P__1.E,1,train,8p5z__1__1.A_1.D__1.E_1.F_1.O_1.P,CC1=CC=C(CNCCNC(=O)CCCC[C@@H]2SC[C@@H]3NC(=O)N[C@@H]32)N=C1,P22629,PF01382,PF01382,,Avidin family
+75714,3ccb,3ccb__1__1.A__1.E__1.E,1,train,3ccb__1__1.A__1.E,CC(=O)N[C@H]1[C@H](O[C@H]2[C@H](O)[C@@H](NC(C)=O)CO[C@@H]2CO)O[C@H](CO)[C@@H](O)[C@@H]1O,P27487,PF00930,PF00930,Beta_propeller,Dipeptidyl peptidase IV (DPP IV) N-terminal region
+5807,1gpn,1gpn__1__1.A__1.B__1.B,1,train,1gpn__1__1.A__1.B,CC(=O)N[C@@H]1[C@@H](O)[C@H](O)[C@@H](CO)O[C@H]1O,P04058,PF00135,PF00135,AB_hydrolase,Carboxylesterase family
+101392,2or4,2or4__1__1.A__1.M__1.M,1,train,2or4__1__1.A__1.M,N[C@@H](CN1OC(=O)NC1=O)C(=O)O,Q04609,PF02225,PF02225,Leu-IlvD,PA domain
+15007,3j6p,3j6p__1__1.B_1.C__1.D_1.E__1.D,1,train,3j6p__1__1.B_1.C__1.D_1.E,NC1=NC2=C(N=CN2[C@@H]2O[C@H](CO[P@](=O)(O)O[P@](=O)(O)OP(=O)(O)O)[C@@H](O)[C@H]2O)C(=O)N1,P02550,PF00091,PF00091,NADP_Rossmann,"Tubulin/FtsZ family, GTPase domain"
+102203,6mdm,6mdm__1__1.A_1.F__1.L__1.L,1,train,6mdm__1__1.A_1.F__1.L,NC1=NC=NC2=C1N=CN2[C@@H]1O[C@H](CO[P@@](=O)(O)O[P@](=O)(O)OP(=O)(O)O)[C@@H](O)[C@H]1O,P18708,PF00004,PF00004,P-loop_NTPase,ATPase family associated with various cellular activities (AAA)
+61983,4hqp,4hqp__1__1.B__1.K__1.K,1,train,4hqp__1__1.B__1.K,CC(=O)N[C@H]1[C@H](O[C@H]2[C@H](O)[C@@H](NC(C)=O)CO[C@@H]2CO)O[C@H](CO)[C@@H](O)[C@@H]1O,P58154,PF02931,PF02931,,Neurotransmitter-gated ion-channel ligand binding domain
+64170,4ono,4ono__1__1.A__1.C__1.C,1,train,4ono__1__1.A__1.C,CCCCCCC[C@@H](C)CCC[C@H](C)CCC[C@H](C)CCC[C@H](C)CCC[C@@H](C)CCCOP(=O)(O)O,P29016,PF07654,PF07654,E-set,Immunoglobulin C1-set domain
+67913,8v80,8v80__1__1.A_1.B__1.R_1.U_1.W__1.R,1,train,8v80__1__1.A_1.B__1.R_1.U_1.W,CCCCCCCCC=CCCCCCCCC(=O)O[C@@H](COC(=O)CCCCCCCCCCCCCCC)CO[P@](=O)([O-])OCC[N+](C)(C)C,P0ABE7,PF07361,PF07361,,Cytochrome b562
+53004,3uty,3uty__1__1.A__1.C__1.C,1,train,3uty__1__1.A__1.C,CC(C=CC=C(C)C=CC1=C(C)CCCC1(C)C)=CC=O,P02945,PF01036,PF01036,GPCR_A,Bacteriorhodopsin-like protein
+50788,1an0,1an0__1__1.A__1.C_1.D__1.C,1,train,1an0__1__1.A__1.C_1.D,NC1=NC2=C(N=CN2[C@@H]2O[C@H](CO[P@](=O)(O)OP(=O)(O)O)[C@@H](O)[C@H]2O)C(=O)N1,P60953,PF00071,PF00071,P-loop_NTPase,Ras family
+42174,8vue,8vue__1__1.A__1.M__1.M,1,train,8vue__1__1.A__1.M,CC(=O)N[C@@H]1[C@@H](O)[C@H](O)[C@@H](CO)O[C@H]1O,A8HWY8,PF00509,PF00509,,Haemagglutinin
+85288,8geb,8geb__1__1.D__1.E__1.E,1,train,8geb__1__1.D__1.E,CN[C@@H]1CCC2=C(C=CC(O)=C2O)[C@H]1O,P07550,PF00001,PF00001,GPCR_A,7 transmembrane receptor (rhodopsin family)
+126989,7xoy,7xoy__1__1.A__1.E__1.E,1,train,7xoy__1__1.A__1.E,CC1=NC=C(COP(=O)(O)O)C(CN[C@@H](CO)C(=O)O)=C1O,P9WP51,PF00571,PF00571,,CBS domain
+74961,7lil,7lil__1__2.A_23.A_3.A__2.B__1.B,1,train,7lil__1__2.A_23.A_3.A__2.B,CC1=CC2=C(C=C1C)N(C[C@H](O)[C@H](O)[C@H](O)CO)C1=NC(=O)NC(=O)C1=N2,Q9WZP2,PF04454,PF04454,Phage-coat,Encapsulating protein for peroxidase
+132933,1q3s,1q3s__1__1.A__1.I_1.J__1.I,1,train,1q3s__1__1.A__1.I_1.J,NC1=NC=NC2=C1N=CN2[C@@H]1O[C@H](CO[P@](=O)(O)OP(=O)(O)O)[C@@H](O)[C@H]1O,P61112,PF00118,PF00118,,TCP-1/cpn60 chaperonin family
+120698,4dpn,4dpn__1__1.A_2.A__1.E__1.E,1,train,4dpn__1__1.A_2.A__1.E,OC1=CC=C(C=CC2=CC(O)=CC(O)=C2)C=C1,P81460,PF00139,PF00139,Concanavalin,Legume lectin domain
+140678,6v4o,6v4o__1__1.A__1.M_1.Q__1.M,1,train,6v4o__1__1.A__1.M_1.Q,CC(=O)N[C@H]1[C@H](O[C@H]2[C@H](O)[C@@H](NC(C)=O)CO[C@@H]2CO)O[C@H](CO)[C@@H](O)[C@@H]1O,A0A1S5RAG6,PF00064,PF00064,Beta_propeller,Neuraminidase
+63670,4lys,4lys__1__1.A__1.B_1.D__1.B,1,train,4lys__1__1.A__1.B_1.D,COC1=CC2=C(C3=CC=C(O)C(=O)C=C3[C@@H](NC(C)=O)CC2)C(OC)=C1OC,O60885,PF17035,PF17035,BET,Bromodomain extra-terminal - transcription regulation
+55723,4lm1,4lm1__1__1.A__1.C__1.C,1,train,4lm1__1__1.A__1.C,O=[N+]([O-])C1=CC=CC2=NC=CC=C12,Q9Y233,PF01590,PF01590,GAF,GAF domain
+129803,9ayf,9ayf__1__1.A__1.M__1.M,1,train,9ayf__1__1.A__1.M,CC(=O)N[C@@H]1[C@@H](O)[C@H](O)[C@@H](CO)O[C@H]1O,P41180,PF00003,PF00003,GPCR_A,7 transmembrane sweet-taste receptor of 3 GCPR
+100010,7ssr,7ssr__1__3.A__3.E__1.E,1,train,7ssr__1__3.A__3.E,CC(=O)N[C@@H]1[C@@H](O)[C@H](O)[C@@H](CO)O[C@H]1O,Q05320,PF22307,PF22307,,"Envelope glycoprotein GP2-like, HR1-HR2"
+116726,5o5p,5o5p__1__24.A_24.C__24.E__1.E,1,train,5o5p__1__24.A_24.C__24.E,CCON=CC1=CC=C(OCCC(C)CCN2C=CN(C3=CC=NC=C3)C2=O)C=C1,Q84895,PF02226,PF02226,Nucleoplasmin,Picornavirus coat protein (VP4)
+98064,5h5o,5h5o__1__1.A__1.C__1.C,1,train,5h5o__1__1.A__1.C,NC1=NC2=C(N=CN2[C@@H]2OC3CO[P@@](=O)(O)O[C@H]3[C@H]2O)C(=O)N1,B0RM05,PF00027,PF00027,Cupin,Cyclic nucleotide-binding domain
+99019,3fnu,3fnu__2__1.C__1.G__2.G,1,train,3fnu__2__1.C__1.G,CC1=CC=CC(C)=C1OCC(=O)N[C@@H](CC1=CC=CC=C1)[C@H](O)C(=O)N1CSC(C)(C)[C@H]1C(=O)N[C@H]1C2=CC=CC=C2C[C@H]1O,Q8IM15,PF00026,PF00026,Peptidase_AA,Eukaryotic aspartyl protease
