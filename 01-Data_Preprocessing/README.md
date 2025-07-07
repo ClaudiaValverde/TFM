@@ -1,4 +1,4 @@
-# Data Analysis and preprocessing
+# Data Analysis and Preprocessing
 
 - `Plinder_Portein_Families.ipynb`: Plinder dataset analysis, ploted pfam distribution (obtained from `plinder_pfams.csv`and created train/test splits, in-out domain sets, virus/novirus sets.
 
