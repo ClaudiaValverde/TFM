@@ -1,1 +1,1 @@
-
+- `generate_topksampling_newmodel.py`: SMILES generation script. Given model .ckpt, protein/pocket embeddings (input representation, same as in training) and the .cvs of the targets that we want to generate molecules from.
