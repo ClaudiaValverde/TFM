@@ -1,3 +1,3 @@
 - `tanimoto_bit.py` : tanimoto similarity ( with Nearest Neighbors or all-to-all ) to know the uniqueness or the diversity of the generated SMILES.
 - `Physicochemical_analysis.ipynb` : validation, SaScore and other Physicochemical Properties for the generated SMILES.
-- `Retrospective_Analisis.ipynb`: validation, SaScore and other Physicochemical Properties for the generated SMILES in the Specific CDK2 and RET targets. Input files found in the [folder](Retro_input/)..
+- `Retrospective_Analisis.ipynb`: validation, SaScore and other Physicochemical Properties for the generated SMILES in the Specific CDK2 and RET targets. Input files found in the [folder](Retro_input/).
