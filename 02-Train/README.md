@@ -9,4 +9,6 @@ For those obtained representations that are not 256, use `dummy_reduction.py` to
 
 Once the different represntations have been preprocessed, they can be input to the training script `main_code.py`, always one type of protein representation either 1) ESM2, 2) SaProt or 3) TendorDTI protein and/or one type of pocket representation 1) PickPocket or 2) TensorDTI pocket.
 
-The smiles representations have been preprocessed in the previous folder.
+The smiles representations have been preprocessed in the previous [folder](01-Data_Preprocessing/).
+
+`plot_losses.py` plots the loss curves reading form either 1) logfile or 2) the ckpt folder based on the ckpt filenames.
