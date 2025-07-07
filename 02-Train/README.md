@@ -11,4 +11,4 @@ Once the different represntations have been preprocessed, they can be input to t
 
 The smiles representations have been preprocessed in the previous [folder](01-Data_Preprocessing/).
 
-`plot_losses.py` plots the loss curves reading form either 1) logfile or 2) the ckpt folder based on the ckpt filenames.
+`plot_loss.py` plots the loss curves reading form either 1) logfile or 2) the ckpt folder based on the ckpt filenames.
