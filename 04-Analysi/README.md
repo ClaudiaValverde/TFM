@@ -1,0 +1,3 @@
+- `tanimoto_bit.py` : tanimoto similarity ( with Nearest Neighbors or all-to-all ) to know the uniqueness or the diversity of the generated SMILES.
+- . notebook: : validation, SaScore and other Physicochemical Properties for the generated SMILES.
+- retro, same
